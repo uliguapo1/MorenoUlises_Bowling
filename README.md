@@ -11,7 +11,8 @@ También incluye la lógica de cálculo de puntaje según las reglas reales de b
 - Node.js
 - JavaScript (ESModules)
 - [cli-table3](https://www.npmjs.com/package/cli-table3) (para visualizar el scoreboard)
-
+- Mocha y Chai para pruebas
+  
 ---
 
 ## Instalación
@@ -55,6 +56,13 @@ npm test
 └────────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘
 ```
 > **Nota:** Los valores son generados aleatoriamente en cada ejecución.
+
+---
+
+## Valor agregado
+- Código probado con Mocha y Chai
+- Visualización clara y profesional en terminal
+- Documentación y ejemplos incluidos
 
 ---
 
