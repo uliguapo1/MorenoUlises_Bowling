@@ -59,6 +59,13 @@ npm test
 
 ---
 
+## Flujo
+1. Se generan tiros válidos (generateRandomGame)
+2. Se calcula puntaje acumulado (calcScore y calcFrameScores)
+3. Se muestra el scoreboard (cli-table3)
+
+---
+
 ## Valor agregado
 - Código probado con Mocha y Chai
 - Visualización clara y profesional en terminal
