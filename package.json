@@ -1,0 +1,19 @@
+{
+  "name": "bowling-kata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.6.0"
+  },
+  "dependencies": {
+    "cli-table3": "^0.6.5"
+  }
+}
